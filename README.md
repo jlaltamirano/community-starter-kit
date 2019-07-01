@@ -1,6 +1,8 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+=======
+Welcome to **JLAP** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
 
 ## What it does
 
@@ -53,3 +55,6 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+=======
+I'll meet you over there, can't wait to get started!
+*:) HAPPY
